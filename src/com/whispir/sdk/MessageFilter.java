@@ -3,15 +3,6 @@
  */
 package com.whispir.sdk;
 
-/**
- * @author stsit19
- *
- * History:                                                                             
- * YYYY/MM/DD     Developer    	Revision  	PDCF                                     
- * ------------------------------------------------------------------------------------  
- * 2015/11/11	  Name			001       	Comment
- * 
- */
 public class MessageFilter {
 
 	private int limit;
